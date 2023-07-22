@@ -10,8 +10,8 @@ html {
 }
 
 h1 {
-  font-size: 40px;
-  letter-spacing: 48px;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
   text-shadow: 4px 4px 8px gray;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
@@ -25,6 +25,6 @@ h1 {
 .text-rgb {
   color: rgb(255, 192, 203);
 }
-div {
+#basic > p {
   font-weight: bold;
 }
