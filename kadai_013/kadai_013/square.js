@@ -1,5 +1,5 @@
 const oneHundred = (number) => {
-  return number * 10;
+  return number * number;
 };
 
 console.log(oneHundred(10));
